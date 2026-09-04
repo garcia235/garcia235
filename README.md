@@ -1,58 +1,86 @@
-# Arthur Garcia 🚀
+<div align="center">
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de desafios que me permitam evoluir técnica e profissionalmente. Tenho experiência sólida em desenvolvimento web e backend, com conhecimento em diversas linguagens, frameworks modernos e ferramentas que me permitem entregar soluções robustas e escaláveis.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=30A3DC&center=true&vCenter=true&width=480&lines=Ol%C3%A1%2C+eu+sou+o+Arthur+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
 
----
+</div>
 
-## 🌐 Conecte-se Comigo
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, com experiência sólida em desenvolvimento
+  <strong>web</strong> e <strong>backend</strong>. Trabalho com diversas linguagens e frameworks
+  modernos para entregar soluções robustas, escaláveis e bem estruturadas.
+</p>
+
+<p align="center">
+  🔭 Atualmente aprofundando conhecimentos em novas tecnologias &nbsp;•&nbsp;
+  🌱 Sempre estudando boas práticas e arquitetura de software &nbsp;•&nbsp;
+  ⚡ Gosto de resolver problemas complexos com soluções simples
+</p>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-garcia-88770728a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/garciax__zl/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garcia235)
 
----
+</div>
 
-## 💻 Habilidades
+<br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## 💻 Stack
 
----
+<div align="center">
 
-## 🛠️ Ferramentas e IDEs
+**Linguagens & Frontend**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
-![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap" />
 
----
+**Backend & Linguagens**
 
-## 📈 GitHub Stats
+<img src="https://skillicons.dev/icons?i=nodejs,java,python,laravel,spring" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garcia235&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=garcia235&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+**Banco de Dados & Cloud**
 
----
+<img src="https://skillicons.dev/icons?i=mysql,postgres,aws" />
+
+**Ferramentas & IDEs**
+
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,docker,pycharm,goland,idea" />
+
+</div>
+
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=garcia235&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garcia235&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=garcia235&theme=dark&background=000000&border=30A3DC&ring=E94D5F&fire=E94D5F&currStreakLabel=30A3DC" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=garcia235&theme=darkhub&no-frame=true&margin-w=8&column=7" />
+
+</div>
+
+<br>
 
 ## 🤝 Vamos trabalhar juntos?
 
-Se você está procurando um desenvolvedor comprometido, com boa comunicação e forte capacidade técnica para resolver problemas, estou pronto para contribuir em projetos desafiadores e colaborativos.  
-**Entre em contato e vamos construir algo incrível!**
+<p align="center">
+  Se você está procurando um desenvolvedor comprometido, com boa comunicação e forte
+  capacidade técnica para resolver problemas, estou pronto para contribuir em projetos
+  desafiadores e colaborativos.
+  <br>
+  <strong>Entre em contato e vamos construir algo incrível! 🚀</strong>
+</p>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=garcia235&color=30A3DC&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es)
+
+</div>
